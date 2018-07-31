@@ -13,7 +13,7 @@ module Finance
     # @api private
     class Function
       values = {
-        eps: "1.0e-16",
+        eps: "1.0e-12",
         one: "1.0",
         two: "2.0",
         ten: "10.0",
